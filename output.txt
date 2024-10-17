@@ -1,0 +1,1 @@
+Enter the size of the array: Enter element at index 0: Enter element at index 1: Enter element at index 2: Enter element at index 3: Enter element at index 4: Enter the element to search: Element not found in the array
